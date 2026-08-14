@@ -14,12 +14,10 @@ export default function Home() {
 
       <main>
         <Hero />
-        <About />
-        <Projects />
-        <Experience />
+       
       </main>
 
-      <Footer />
+    
     </>
   );
 }
