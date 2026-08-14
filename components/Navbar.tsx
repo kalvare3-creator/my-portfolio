@@ -15,7 +15,7 @@ export default function Navbar() {
     </a>
 
     <div className="hidden items-center gap-10 md:flex">
-      <a href="/hero" className="transition hover:text-[#d95c6b]">
+      <a href="/about" className="transition hover:text-[#d95c6b]">
         About
       </a>
 

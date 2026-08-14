@@ -1,17 +1,15 @@
 
 import Navbar from "@/components/Navbar";
-import Hero from "@/components/Hero";
 import About from "@/components/About";
-import Experience from "@/components/Experience";
-import Footer from "@/components/Footer";
 
-export default function HeroPage() {
+
+export default function AboutPage() {
   return (
     <>
       <Navbar />
 
       <main>
-        <Hero />
+        <About />
 
       </main>
 
