@@ -2,6 +2,17 @@
 
 export default function Projects() {
   const projects = [
+    {
+  id: 257286827,
+  title: "Apollo 11",
+  categories: ["Graphic Design", "UX / UI Design", "Usability"],
+  description:
+    "An interactive educational experience designed for middle school students to explore the Apollo 11 mission through visual storytelling, intuitive navigation, and engaging learning experiences.",
+  embed:
+    "https://www.behance.net/embed/project/257286827?ilo0=1",
+  behance:
+    "https://www.behance.net/gallery/257286827",
+},
 {
   id: "makeup-skincare",
   title: "Makeup & Skincare App",
@@ -14,6 +25,7 @@ export default function Projects() {
     "https://www.figma.com/proto/U3BAN6sRP2gaQh7utc42yj/Makeup-Skincare-App",
   type: "figma",
 },
+
     {
       id: 239584143,
       title: " Brand Identity",
